@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  background-image: url(Images/417007.jpg);
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(255, 0, 0);
+}
+
+#message-el {
+  color: beige;
+}
+
+p {
+  color: beige;
+}
+
+.btn {
+  border: none;
+  border-radius: 10px;
+  width: 150px;
+  background-color: white;
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
+
+.card {
+  width: 150px;
+  background-color: white;
+  color: rgb(0, 0, 0);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 2px;
+}
